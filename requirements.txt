@@ -6,4 +6,3 @@ seaborn
 matplotlib
 nltk
 wordcloud
-pickle
