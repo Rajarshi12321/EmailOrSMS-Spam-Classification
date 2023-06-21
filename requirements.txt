@@ -1,0 +1,8 @@
+sklearn
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+nltk
+wordcloud
