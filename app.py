@@ -11,7 +11,7 @@ model = pickle.load(open("model.pkl", "rb"))
 
 st.title("Email and SMS Classifier")
 
-input_sms = st.text_input("Enter the message")
+input_sms = st.text_area("Enter the message")
 
 ps = PorterStemmer()
 
